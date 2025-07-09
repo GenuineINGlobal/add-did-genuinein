@@ -1,0 +1,15 @@
+{
+  "name": "did:genuinein",
+  "status": "proposed",
+  "specification": "https://genuinein.com/DIDMethod",
+  "contact": {
+    "name": "GenuineIN Team",
+    "email": "support@genuinein.com",
+    "github": "https://github.com/genuinein"
+  },
+  "description": "A DID method for issuing verifiable credentials related to learning, employment, and skills on the GenuineIN platform.",
+  "example": "did:genuinein:issuer:123456#key-1",
+  "documentation": "https://genuinein.com/LERSchema/Introduction",
+  "resolver": "https://resolver.genuinein.com/",
+  "testVectors": "https://www.genuinein.com/ler/did/did.json"
+}
